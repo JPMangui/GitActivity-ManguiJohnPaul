@@ -1,3 +1,6 @@
 print ("John Paul L. Mangui")
 print ("Poras, Boac, Marinduque")
 print ("March 20, 2003")
+print ("College of Information and Computer Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("BSI/T 2B")
